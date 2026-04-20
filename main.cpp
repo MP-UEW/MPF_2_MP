@@ -1,3 +1,5 @@
+// Wprowadzenie komentarza
+
 #include <iostream>
 #include <string>
 
