@@ -1,4 +1,4 @@
-// Wprowadzenie komentarza
+// Wprowadzenie komentarza 2
 
 #include <iostream>
 #include <string>
